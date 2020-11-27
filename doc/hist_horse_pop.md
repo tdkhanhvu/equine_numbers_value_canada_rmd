@@ -68,13 +68,13 @@ time point between 1940 - 1972:
 
 Table 1. The number horses for each province between 1940 - 1972
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of Ontario:
 
 <div class="figure">
 
-<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2. Historical number of horses in  Alberta" width="100%" />
+<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2. Historical number of horses in  Ontario" width="100%" />
 <p class="caption">
-Figure 2. Historical number of horses in Alberta
+Figure 2. Historical number of horses in Ontario
 </p>
 
 </div>
