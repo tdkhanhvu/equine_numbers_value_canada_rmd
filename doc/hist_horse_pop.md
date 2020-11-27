@@ -23,9 +23,10 @@ two sources were used:
 Methods
 -------
 
-The R programming language and the following R packages were used to
-perform the analysis: knitr and tidyverse. The code used to perform the
-analysis and create this report can be found here:
+The R programming language (R Core Team 2020) and the following R
+packages were used to perform the analysis: knitr (Xie 2020) and
+tidyverse (Wickham 2017). The code used to perform the analysis and
+create this report can be found here:
 <a href="https://github.com/ttimbers/equine_numbers_value_canada_rmd" class="uri">https://github.com/ttimbers/equine_numbers_value_canada_rmd</a>.
 
 Results
@@ -75,5 +76,34 @@ Below we zoom in and look at the province of Alberta:
 <p class="caption">
 Figure 2. Historical number of horses in Alberta
 </p>
+
+</div>
+
+References
+==========
+
+<div id="refs" class="references hanging-indent">
+
+<div id="ref-R">
+
+R Core Team. 2020. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-tidyverse">
+
+Wickham, Hadley. 2017. *Tidyverse: Easily Install and Load the
+’Tidyverse’*. <https://CRAN.R-project.org/package=tidyverse>.
+
+</div>
+
+<div id="ref-knitr">
+
+Xie, Yihui. 2020. *Knitr: A General-Purpose Package for Dynamic Report
+Generation in R*. <https://yihui.org/knitr/>.
+
+</div>
 
 </div>
