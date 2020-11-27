@@ -71,7 +71,7 @@ Below we zoom in and look at the province of Alberta:
 
 <div class="figure">
 
-<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2. Historical number of horses in Alberta" width="100%" />
+<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2. Historical number of horses in  Alberta" width="100%" />
 <p class="caption">
 Figure 2. Historical number of horses in Alberta
 </p>
